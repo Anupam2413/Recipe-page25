@@ -70,18 +70,30 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
 
+### Screenshot
+
+
+Here is my destop preview of this project - 
+
+![127 0 0 1_5500_index html (1)](https://github.com/Anupam2413/Recipe-page25/assets/138028477/81c8a9f2-0d12-45df-9a67-e29d04ba3175)
+
+
+
+Here is my mobile preview of this project - 
+
+![127 0 0 1_5500_index html](https://github.com/Anupam2413/Recipe-page25/assets/138028477/a82ac7f2-d0a5-4cc0-8711-6e8e738fbbad)
 
 
 
 
-
-
+You can find both these previews inside the /mydesign folder.
 
 
 
 ## Author
 - Website - [Anupam Kumar Jha](https://anupam2413.github.io/Recipe-page25/)
-- Frontend Mentor - [@Anupam2413]Anupam2413
+- Frontend Mentor - [@Anupam2413](https://www.frontendmentor.io/profile/Anupam2413)
+- Github - [@Anupam2413](https://github.com/Anupam2413)
 
 
 ## Acknowledgments
