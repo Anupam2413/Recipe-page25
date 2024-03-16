@@ -1,0 +1,250 @@
+@import url("https://fonts.googleapis.com/css2?family=Young+Serif&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&family=Young+Serif&display=swap');
+
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.container{
+    width:100%;
+    height:100%; 
+    background-color: hsl(30, 54%, 90%);
+     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    
+}
+  .menubox{
+    
+    background-color: white;
+    height: 10%;
+    width:60%;; 
+    display: flex;
+    flex-direction: column;
+    border-radius: 8px;
+    margin-top:7rem;
+   
+    } 
+    h1{
+        color:hsl(24, 5%, 18%);
+        font-family:"Young Serif", serif;
+        font-size:2.3rem;
+       
+    } 
+
+ .img{
+     width:100%;
+     height:30%; 
+     margin-bottom: 0.7rem; 
+     margin-right: 8.8rem; 
+     border-radius:10px; 
+      
+} 
+
+ .image-container{
+    padding:2rem;
+} 
+    
+
+
+.heading{
+    margin-left: 0.9em;
+    margin-right: 2rem;
+    color:  hsl(24, 5%, 18%);
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-size: 2.2em;
+}
+
+.para1{
+     
+    margin:1rem 1.7rem 1rem 1.9rem; 
+    color: hsl(30, 10%, 34%);
+    font-family:"Outfit", sans-serif;
+    
+}
+
+.prep-section{
+    
+    background-color: hsl(330, 100%, 98%); 
+     padding:1.4rem; 
+    border-radius: 12px;
+    margin:1rem 2rem 0  1.9rem;  
+  
+    
+} 
+
+.prep-section h3{
+    margin-left: 0.2rem;
+    color: hsl(332, 51%, 32%);
+    margin-right: 0.2rem;
+     
+}
+
+
+.prep-section ul {
+    margin-top: 12px; 
+}
+
+.prep-section li {
+    margin-bottom: 10px; 
+    margin-left: 1.7rem;
+    padding-top: 1rem;
+    margin-right: 1rem;
+    
+    color: hsl(30, 10%, 34%);
+}
+.ingredients h2{
+    margin-top: 1rem;
+    margin-left:2.3rem;
+     margin-bottom: 0.8rem;
+     color: hsl(14, 45%, 36%);
+}
+
+.ingredients li{
+     margin-left:3.5rem; 
+    margin-bottom: 0.7rem;
+     margin-right: 1.2rem; 
+     font-family:  "Outfit", sans-serif;
+    color:hsl(30, 10%, 34%);
+}
+
+
+hr {
+    margin:1.2rem 2rem 0  2rem;
+    color: var(--border-light);
+    opacity: 0.3;
+    background-color: hsl(30, 18%, 87%);
+  }
+
+.instruction h2{
+    margin-left: 2.3rem;
+    margin-top: 1rem;
+    margin-bottom: 0.8rem;
+    color: hsl(14, 45%, 36%);
+}
+
+.instruction li{
+    margin-left:3.5rem;
+    margin-bottom: 0.7rem;
+    margin-right: 2rem;
+    font-weight: 400;
+    color:hsl(30, 10%, 34%);
+    font-family: "Outfit", sans-serif;
+}
+ul li::marker {
+    color:hsl(14, 45%, 36%); 
+  }
+
+  ol li::marker {
+    color:hsl(14, 45%, 36%); 
+    font-weight: 600;
+  }
+
+.Nutrition h2{
+    margin-left: 2.3rem;
+    margin-top: 1rem;
+    margin-bottom: 0.8rem;
+    color: hsl(14, 45%, 36%);
+
+}
+
+.Nutrition p{
+    margin-bottom: 0.8rem;
+    margin-top: 1rem;
+    margin-left: 2.3rem;
+    margin-right:1rem;
+    color: hsl(30, 10%, 34%);
+}
+
+.nutrition-table{
+     margin-left:0.4rem; 
+     margin-bottom: 1rem;
+     margin-right: 0.4rem; 
+    margin-top: 0.2rem;
+    font-family: "Outfit", sans-serif;
+    color: hsl(30, 10%, 34%);
+     border-bottom: 0.5px solid hsl(30, 18%, 87%); 
+}
+
+.nutrition-table:nth-last-of-type(1) {
+    border: none;
+  }
+
+.nutrition-table div {
+    display: flex;
+    justify-content: space-around;
+
+}
+    
+   .nutrient-value , .nutrient{
+    margin-top: 0.5rem;
+    
+  } 
+
+  .nutrient-value {
+    color: hsl(14, 45%, 36%);
+    font-weight: 600;
+  }
+ .attribution {
+    text-align: center;
+    margin-bottom: 5rem; 
+    margin-top: 1rem;
+    font-size: 16px;
+    font-weight: 600;
+  }
+
+  .attribution a{
+    color:hsl(228, 45%, 44%);
+    font-size:13px;
+    font-weight: 600;
+  }
+
+  .attribution a:hover,
+  .attribution a:focus{
+    color: red;
+    text-decoration: none;
+    }
+   
+     @media screen and (max-width:375px){
+        .menubox{
+            margin:0;
+            padding:0;
+            width:100%;
+            border-radius:0;
+            display: grid;
+            place-items: center; 
+        }
+        .image-container{
+             width: 100%;  
+            border-radius:0;
+             margin: 0;
+            padding:0;
+           
+        }
+
+        .img{
+            width: 100%;
+            border-radius: 0;
+            margin:0;
+            padding:0;   
+        }
+
+        h1{
+            font-size:2.1rem;
+        }
+         
+         .attribution{
+             display: none;
+            
+        }  
+
+        }
+
+
+
+       
