@@ -91,7 +91,7 @@ You can find both these previews inside the /mydesign folder.
 
 
 ## Author
-- Website - [Anupam Kumar Jha](https://anupam2413.github.io/Recipe-page25/)
+
 - Frontend Mentor - [@Anupam2413](https://www.frontendmentor.io/profile/Anupam2413)
 - Github - [@Anupam2413](https://github.com/Anupam2413)
 
