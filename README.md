@@ -75,7 +75,7 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 
 Here is my destop preview of this project - 
 
-![Description](https://github.com/Anupam2413/Recipe-page25/assets/138028477/81c8a9f2-0d12-45df-9a67-e29d04ba3175)
+![Screenshot](https://raw.githubusercontent.com/Anupam2413/Recipe-page25/main/images/your-image.png)
 
 
 
