@@ -75,7 +75,7 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 
 Here is my destop preview of this project - 
 
-![Screenshot](https://raw.githubusercontent.com/Anupam2413/Recipe-page25/main/images/your-image.png)
+![Omelette](https://raw.githubusercontent.com/Anupam2413/Recipe-page25/main/images/image-omelette.jpeg)
 
 
 
